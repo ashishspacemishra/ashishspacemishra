@@ -12,7 +12,7 @@
 
 
 <p>
-I have 6+ years of professional work experience in Full Stack Software Development. I have experience in building large scale frontend, backend, and cloud applications along with working on various leading databases. I have developed a lot of applications from scratch - providing technical designs, using industry standard tools and resources, implementing the solutions, creating deployments and documentations, and providing support for the same. 
+I have 7+ years of professional work experience in Full Stack Software Development. I have experience in building large scale frontend, backend, and cloud applications along with working on various leading databases. I have developed a lot of applications from scratch - providing technical designs, using industry standard tools and resources, implementing the solutions, creating deployments and documentations, and providing support for the same. 
 
 
 I am fascinated by the blockchain technology and web3 ecosystem, which is rapidly growing and constantly evolving. I am an experienced Blockchain Engineer with 3+ years of experience in developing web3 applications – creating designs and workflows, web3 integrations, developing Defi and EVM compatible Smart Contract based dapps, developing responsive user interface, creating deployments etc. 
